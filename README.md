@@ -1,3 +1,6 @@
+g810-led/src/helpers/help.h --> add:
+#include<cstdint> before #include<iostream>
+
 # g810-led</br>
 
 Linux led controller for Logitech G213, G410, G413, G512, G513, G610, G810, G815, G910 and GPRO Keyboards.</br>
