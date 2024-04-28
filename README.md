@@ -1,4 +1,4 @@
-==g810-led/src/helpers/help.h --> add:==
+g810-led/src/helpers/help.h --> add:
 #include(cstdint) before #include(iostream)
 
 # g810-led</br>
